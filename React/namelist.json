@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Manish Mehta",
+    "username": "mmehta",
+    "email": "mmehta@bindas.com"
+  },
+  {
+    "id": 2,
+    "name": "Sandeep Kumar",
+    "username": "skumar",
+    "email": "skumar@bindas.com"
+  },
+  {
+    "id": 3,
+    "name": "Kishor Kunal",
+    "username": "kkunal",
+    "email": "kkunal@bindas.com"
+  }
+]
